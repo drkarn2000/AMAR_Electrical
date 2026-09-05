@@ -114,27 +114,27 @@ const createBrandWordmark = (name: string, primary: string, secondary = '#ffffff
 };
 
 export const brandLogos = [
-  { name: 'Havells', logo: '/brands/official/havells.svg' },
-  { name: 'Panasonic', logo: '/brands/official/panasonic.svg' },
-  { name: 'Eleczo', logo: '/brands/official/eleczo.png' },
-  { name: 'Polycab', logo: '/brands/official/polycab.png' },
-  { name: 'Schneider Electric', logo: '/brands/official/schneider.svg' },
-  { name: 'RR Kabel', logo: '/brands/official/rr-kabel.svg' },
-  { name: 'Philips', logo: '/brands/official/philips.svg' },
-  { name: 'Crompton', logo: '/brands/official/crompton.webp' },
-  { name: 'Syska', logo: '/brands/official/syska.png' },
-  { name: 'Legrand', logo: '/brands/official/legrand.svg' },
-  { name: 'Finolex', logo: '/brands/official/finolex.svg' },
-  { name: 'V-Guard', logo: '/brands/official/v-guard.png' },
-  { name: 'Angel Cables', logo: '/brands/official/angel-cables.png' },
-  { name: 'Bluebird', logo: '/brands/official/bluebird.png' },
-  { name: 'KEI', logo: '/brands/official/kei.png' },
-  { name: 'Khaitan', logo: '/brands/official/khaitan.png' },
-  { name: 'Kapson', logo: '/brands/official/kapson.png' },
-  { name: 'LG', logo: '/brands/official/lg.svg' },
-  { name: 'Bajaj', logo: '/brands/official/bajaj.png' },
-  { name: 'Relaxo', logo: '/brands/official/logo-black-relaxo.png' },
-  { name: 'Hosper', logo: '/brands/official/Hosper-New-Logo-1-2-1.png' }
+  { name: 'Havells', logo: '/Brands/official/havells.svg' },
+  { name: 'Panasonic', logo: '/Brands/official/panasonic.svg' },
+  { name: 'Eleczo', logo: '/Brands/official/eleczo.png' },
+  { name: 'Polycab', logo: '/Brands/official/polycab.png' },
+  { name: 'Schneider Electric', logo: '/Brands/official/schneider.svg' },
+  { name: 'RR Kabel', logo: '/Brands/official/rr-kabel.svg' },
+  { name: 'Philips', logo: '/Brands/official/philips.svg' },
+  { name: 'Crompton', logo: '/Brands/official/crompton.webp' },
+  { name: 'Syska', logo: '/Brands/official/syska.png' },
+  { name: 'Legrand', logo: '/Brands/official/legrand.svg' },
+  { name: 'Finolex', logo: '/Brands/official/finolex.svg' },
+  { name: 'V-Guard', logo: '/Brands/official/v-guard.png' },
+  { name: 'Angel Cables', logo: '/Brands/official/angel-cables.png' },
+  { name: 'Bluebird', logo: '/Brands/official/bluebird.png' },
+  { name: 'KEI', logo: '/Brands/official/kei.png' },
+  { name: 'Khaitan', logo: '/Brands/official/khaitan.png' },
+  { name: 'Kapson', logo: '/Brands/official/kapson.png' },
+  { name: 'LG', logo: '/Brands/official/lg.svg' },
+  { name: 'Bajaj', logo: '/Brands/official/bajaj.png' },
+  { name: 'Relaxo', logo: '/Brands/official/logo-black-relaxo.png' },
+  { name: 'Hosper', logo: '/Brands/official/Hosper-New-Logo-1-2-1.png' }
 ];
 
 export const projectCategories = [

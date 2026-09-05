@@ -17,91 +17,91 @@ export function AboutBrands() {
       id: 'havells',
       name: 'Havells',
       tagline: 'Reliable • Safe • Superior',
-      logoSrc: '/brands/official/havells.svg',
+      logoSrc: '/Brands/official/havells.svg',
       alt: 'Havells Official Logo'
     },
     {
       id: 'anchor',
       name: 'Anchor by Panasonic',
       tagline: 'Trusted • Innovative • Safe',
-      logoSrc: '/brands/official/anchor.svg',
+      logoSrc: '/Brands/official/anchor.svg',
       alt: 'Anchor by Panasonic Official Logo'
     },
     {
       id: 'polycab',
       name: 'Polycab',
       tagline: 'Trusted • Durable • Innovative',
-      logoSrc: '/brands/official/polycab.png',
+      logoSrc: '/Brands/official/polycab.png',
       alt: 'Polycab Official Logo'
     },
     {
       id: 'finolex',
       name: 'Finolex Cables',
       tagline: 'Safe • Durable • Reliable',
-      logoSrc: '/brands/official/finolex.svg',
+      logoSrc: '/Brands/official/finolex.svg',
       alt: 'Finolex Cables Official Logo'
     },
     {
       id: 'rr-kabel',
       name: 'RR Kabel',
       tagline: 'Strong • Safe • Reliable',
-      logoSrc: '/brands/official/rr-kabel.svg',
+      logoSrc: '/Brands/official/rr-kabel.svg',
       alt: 'RR Kabel Official Logo'
     },
     {
       id: 'philips',
       name: 'Philips',
       tagline: 'Innovative • Reliable • Efficient',
-      logoSrc: '/brands/official/philips.svg',
+      logoSrc: '/Brands/official/philips.svg',
       alt: 'Philips Official Logo'
     },
     {
       id: 'crompton',
       name: 'Crompton',
       tagline: 'Trusted • Durable • Efficient',
-      logoSrc: '/brands/official/crompton.webp',
+      logoSrc: '/Brands/official/crompton.webp',
       alt: 'Crompton Official Logo'
     },
     {
       id: 'syska',
       name: 'Syska',
       tagline: 'Stylish • Reliable • Efficient',
-      logoSrc: '/brands/official/syska.png',
+      logoSrc: '/Brands/official/syska.png',
       alt: 'Syska Official Logo'
     },
     {
       id: 'panasonic',
       name: 'Panasonic',
       tagline: 'Reliable • Innovative • Durable',
-      logoSrc: '/brands/official/panasonic.svg',
+      logoSrc: '/Brands/official/panasonic.svg',
       alt: 'Panasonic Official Logo'
     },
     {
       id: 'schneider',
       name: 'Schneider Electric',
       tagline: 'Safe • Smart • Sustainable',
-      logoSrc: '/brands/official/schneider.svg',
+      logoSrc: '/Brands/official/schneider.svg',
       alt: 'Schneider Electric Official Logo'
     },
     {
       id: 'legrand',
       name: 'Legrand',
       tagline: 'Innovative • Reliable • Premium',
-      logoSrc: '/brands/official/legrand.svg',
+      logoSrc: '/Brands/official/legrand.svg',
       alt: 'Legrand Official Logo'
     },
     {
       id: 'relaxo',
       name: 'Relaxo',
       tagline: 'Comfort • Modern • Reliable',
-      logoSrc: '/brands/official/logo-black-relaxo.png',
+      logoSrc: '/Brands/official/logo-black-relaxo.png',
       alt: 'Relaxo Home Appliances Official Logo'
     },
     {
       id: 'hosper',
       name: 'Hosper',
       tagline: 'Smart • Safe • Durable',
-      logoSrc: '/brands/official/Hosper-New-Logo-1-2-1.png',
+      logoSrc: '/Brands/official/Hosper-New-Logo-1-2-1.png',
       alt: 'Hosper Official Logo'
     }
   ];
