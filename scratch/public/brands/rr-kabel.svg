@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 48" fill="none">
+    <defs>
+      <linearGradient id="rrGradOfficial" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#ea580c"/>
+        <stop offset="100%" stop-color="#dc2626"/>
+      </linearGradient>
+    </defs>
+    <!-- RR ribbon monogram -->
+    <path d="M10 32V10h15c5.5 0 9.5 3.2 9.5 8s-4 8-9.5 8h-5.5l11 12H21l-10-11v11H4v-9h6z" fill="url(#rrGradOfficial)"/>
+    <path d="M38 32V10h15c5.5 0 9.5 3.2 9.5 8s-4 8-9.5 8h-5.5l11 12H49l-10-11v11h-7v-9h6z" fill="url(#rrGradOfficial)"/>
+    <rect x="70" y="8" width="1.5" height="26" fill="#ea580c" opacity="0.7"/>
+    <text x="78" y="30" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="17" fill="#0f172a" letter-spacing="1">KÄBEL</text>
+  </svg>

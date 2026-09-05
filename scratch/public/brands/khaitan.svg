@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+    <!-- Khaitan red gear over 'i' -->
+    <g fill="#dc2626">
+      <circle cx="78" cy="14" r="3.5" fill="none" stroke="#dc2626" stroke-width="2"/>
+      <circle cx="78" cy="14" r="1.5" fill="#dc2626"/>
+      <text x="8" y="32" font-family="'Comic Sans MS', 'Trebuchet MS', Arial, sans-serif" font-weight="900" font-size="24" letter-spacing="-0.5">khaitan</text>
+    </g>
+  </svg>

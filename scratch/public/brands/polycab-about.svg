@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 50" fill="none">
+    <!-- Polycab polygon emblem -->
+    <path d="M8 12l14 13-14 13 22-13L8 12z" fill="#dc2626"/>
+    <path d="M8 25l14 13-6-13H8z" fill="#b91c1c" opacity="0.6"/>
+    <text x="36" y="25" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="21" fill="#dc2626" letter-spacing="0.6">POLYCAB</text>
+    <text x="38" y="40" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="10" fill="#475569">Connection Zindagi Ka</text>
+  </svg>

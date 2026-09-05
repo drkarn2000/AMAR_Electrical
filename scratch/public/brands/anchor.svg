@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 50" fill="none">
+    <!-- Red rounded square with white anchor -->
+    <rect x="4" y="6" width="36" height="36" rx="6" fill="#e11d48"/>
+    <circle cx="22" cy="14" r="3" stroke="#ffffff" stroke-width="2.2" fill="none"/>
+    <line x1="15" y1="20" x2="29" y2="20" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="22" y1="17" x2="22" y2="35" stroke="#ffffff" stroke-width="2.8"/>
+    <path d="M14 28c2 5 14 5 16 0" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" fill="none"/>
+    <text x="48" y="24" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="20" fill="#e11d48" letter-spacing="0.5">ANCHOR</text>
+    <text x="50" y="39" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="12" fill="#1e293b">by Panasonic</text>
+  </svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 48" fill="none">
+    <!-- V-Guard official golden kangaroo on black card -->
+    <rect x="4" y="6" width="162" height="36" rx="6" fill="#111111"/>
+    <path d="M120 12c7-2 15 2 20 8-6-1-12 1-16 4l10-3c-8 5-15 10-25 9 7-3 11-8 11-12 0-3-2-5-5-5l5-1z" fill="#f59e0b"/>
+    <text x="16" y="30" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="19" fill="#f59e0b" letter-spacing="1.5">V-GUARD</text>
+  </svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+    <defs>
+      <linearGradient id="keiGradOfficial" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#38bdf8"/>
+        <stop offset="50%" stop-color="#0284c7"/>
+        <stop offset="100%" stop-color="#0369a1"/>
+      </linearGradient>
+    </defs>
+    <text x="8" y="28" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900" font-size="27" fill="url(#keiGradOfficial)" letter-spacing="1">KEI</text>
+    <text x="10" y="40" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="8.5" fill="#475569" letter-spacing="0.5">Wires and Cables</text>
+  </svg>

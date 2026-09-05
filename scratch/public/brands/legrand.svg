@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+    <!-- Legrand official emblem: black square with inner white corner and red square -->
+    <rect x="6" y="10" width="20" height="20" fill="#000000"/>
+    <rect x="10" y="14" width="12" height="12" fill="#ffffff"/>
+    <rect x="13" y="17" width="6" height="6" fill="#e11919"/>
+    <text x="34" y="30" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="24" fill="#0f172a" letter-spacing="-0.5">legrand</text>
+    <rect x="126" y="12" width="4" height="4" fill="#e11919"/>
+  </svg>

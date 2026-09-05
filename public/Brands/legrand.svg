@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 175 44" fill="none">
+    <g>
+      <rect x="2" y="4" width="171" height="36" rx="8" fill="#e11919" />
+      <rect x="14" y="13" width="18" height="18" fill="none" stroke="#ffffff" stroke-width="3" />
+      <rect x="20" y="19" width="6" height="6" fill="#e11919" />
+      <text x="40" y="29" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="22" fill="#ffffff" letter-spacing="-0.3">legrand</text>
+    </g>
+  </svg>
