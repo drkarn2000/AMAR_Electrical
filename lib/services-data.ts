@@ -235,7 +235,7 @@ export const allServices: ServiceDetail[] = [
     category: 'Industrial',
     additionalCategories: ['Commercial'],
     iconName: 'Cpu',
-    image: '/services/panel-installation.jpg',
+    image: '/services/panel-installation.png',
     badge: 'Engineering',
     features: ['Electrolytic copper busbar dressing', 'Multifunction digital energy meters', 'Cable glanding and ferrule numbering']
   },

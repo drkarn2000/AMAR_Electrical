@@ -60,7 +60,7 @@ const iconMap: Record<string, React.ElementType> = {
 };
 
 export function ServiceCard({ service, onSelect }: ServiceCardProps) {
-  const imageSrc = service.image.startsWith('/') ? `${service.image}?v=20260905` : service.image;
+  const imageSrc = service.image.startsWith('/') ? `${service.image}?v=20260906` : service.image;
   const IconComponent = iconMap[service.iconName] || Zap;
 
   return (

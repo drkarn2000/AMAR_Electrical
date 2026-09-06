@@ -30,7 +30,7 @@ export function ServiceModal({ service, onClose }: ServiceModalProps) {
 
   const imageSrc = service
     ? service.image.startsWith('/')
-      ? `${service.image}?v=20260905`
+      ? `${service.image}?v=20260906`
       : service.image
     : '';
 

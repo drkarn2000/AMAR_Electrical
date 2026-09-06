@@ -11,11 +11,14 @@ export function ServicesHero() {
     <section
       className="relative overflow-hidden bg-cover bg-center py-12 sm:py-16 lg:py-20"
       style={{
-        backgroundImage: "linear-gradient(90deg, rgba(3, 17, 39, 0.75) 0%, rgba(7, 31, 60, 0.72) 35%, rgba(18, 52, 98, 0.55) 100%), url('/services/hero_sec.png')",
-        backgroundSize: 'cover',
-        backgroundPosition: 'center center'
+        backgroundImage: 'linear-gradient(90deg, rgba(3, 17, 39, 0.75) 0%, rgba(7, 31, 60, 0.72) 35%, rgba(18, 52, 98, 0.55) 100%)'
       }}
     >
+      <div
+        aria-hidden="true"
+        className="pointer-events-none absolute inset-0 bg-cover bg-center opacity-80"
+        style={{ backgroundImage: "url('/services/hero_sec.png')" }}
+      />
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,_rgba(96,165,250,0.18),_transparent_40%)]" />
 
       <div className="container-shell relative z-10">

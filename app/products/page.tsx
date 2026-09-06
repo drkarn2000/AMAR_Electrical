@@ -92,7 +92,7 @@ const products: ProductItem[] = [
     category: 'Wiring & Protection',
     description: 'Heavy-duty steel panel boards ensuring structured circuitry, phase isolation, and easy maintenance.',
     longDescription: 'IP43 rated sheet steel enclosures with busbar chambers, acrylic windows, and independent neutral links for clean R-Y-B three-phase and single-phase segregation.',
-    image: '/services/panel-installation.jpg',
+    image: '/services/panel-installation.png',
     badge: 'Heavy Duty',
     features: ['Powder-coated rust-resistant steel', 'Integrated earth & neutral bars', 'Reversible door mechanism']
   },
@@ -320,7 +320,7 @@ export default function ProductsPage() {
             <div className="relative overflow-hidden rounded-[2rem] border border-slate-200/90 bg-slate-900 shadow-xl group">
               <div className="relative aspect-[4/3] sm:aspect-[14/11] w-full overflow-hidden">
                 <Image
-                  src="/services/panel-installation.jpg"
+                  src="/services/panel-installation.png"
                   alt="Industrial grade certified electrical distribution board and switchgear installation"
                   fill
                   className="object-cover object-center transition-transform duration-700 ease-out group-hover:scale-108"
