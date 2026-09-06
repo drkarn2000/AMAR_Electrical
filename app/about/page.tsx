@@ -24,7 +24,7 @@ export default function AboutPage() {
           className="absolute inset-0 bg-cover bg-center transition-transform duration-1000 ease-out scale-105"
           style={{
             backgroundImage:
-              "linear-gradient(90deg, rgba(2, 13, 34, 0.88) 0%, rgba(3, 22, 45, 0.76) 40%, rgba(11, 69, 128, 0.55) 100%), url('/About_hero.png')"
+              "linear-gradient(90deg, rgba(2, 13, 34, 0.88) 0%, rgba(3, 22, 45, 0.76) 40%, rgba(11, 69, 128, 0.55) 100%), url('/about_hero.png')"
           }}
         />
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,_rgba(59,130,246,0.28),transparent_35%)]" />
